@@ -10,9 +10,7 @@ const Header = () => {
                     <img src={HeaderImage} alt="header_profile" />
                 </div>
                 <h3>Dariush Kadkhoda</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Dicta magnam placeat mollitia! Labore, fuga quibusdam
-                    possimus reprehenderit laborum fugitpossimus reprehenderit laborum fugit
+                <p>با ساختن وب سایت یا برنامه وب رویایی خود یک کلیک فاصله دارید. امروز جزییات پروژه خود را برای یک وب سایت مدرن، واکنش گرا و با عملکرد بالا برای من ارسال کنید!
                 </p>
                 <div className="header__cta">
                     <a href="#contact" className='btn primary'>Let`s Talk</a>
